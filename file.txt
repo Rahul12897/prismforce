@@ -1,0 +1,30 @@
+{
+  "expenseData": [
+    {
+      "amount": 2000,
+      "startDate": "2020-05-01T00:00:00.000Z"
+    },
+    {
+      "amount": 4560,
+      "startDate": "2020-03-01T00:00:00.000Z"
+    }
+  ],
+  "revenueData": [
+    {
+      "amount": 768,
+      "startDate": "2020-03-01T00:00:00.000Z"
+    },
+     {
+      "amount": 8900,
+      "startDate": "2020-02-01T00:00:00.000Z"
+    },
+    {
+      "amount": 6666,
+      "startDate": "2020-03-01T00:00:00.000Z"
+    },
+    {
+      "amount": 5669,
+      "startDate": "2020-01-01T00:00:00.000Z"
+    }
+  ]
+}
